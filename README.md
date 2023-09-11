@@ -2,11 +2,6 @@
 
 Welcome to the React Design Patterns Repository! This repository is a collection of React design patterns that I've been studying and experimenting with.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-
 ## Introduction
 React is a popular JavaScript library for building user interfaces, and it offers a wide range of possibilities for structuring and organizing your code. This repository aims to explore various design patterns and best practices that can help you write clean, maintainable, and efficient React code.
 
@@ -17,7 +12,7 @@ To get started with this repository, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/your-username/react-design-patterns.git
+git clone https://github.com/alexneres/react-design-patterns.git
 ```
 2. Navigate to a Pattern: Browse through the directories in this repository to find the specific design pattern you're interested in.
 
